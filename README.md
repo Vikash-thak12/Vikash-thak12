@@ -38,8 +38,9 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: center; height: 200px; width: 100%; overflow: hidden;">
-    <p style="margin: 0; flex: 1;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikash-thak12&show_icons=true&locale=en&layout=compact" alt="vikash-thak12" style="height: 100%; width: 50%;" /></p>
-    <p style="margin: 0; flex: 1;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-thak12&" alt="vikash-thak12" style="height: 100%; width: 50%;" /></p>
-</div>
+
+
+
+
+
 
