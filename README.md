@@ -6,11 +6,11 @@
 - 📫 How to reach me **thakvikash622@gmail.com**
 
 <h3 align="left">Interests</h3>
+<h3 align="left">Interests</h3>
 <p align="left">
-- Blockchain and Decentralized Technology<br/>
-- Open Source Contribution<br/>
-- Full-Stack Web Development<br/>
+  I have a deep interest in Blockchain and Decentralized Technology, Open Source Contribution, and Full-Stack Web Development. I am passionate about exploring the latest trends and innovations in these areas, continually expanding my skill set to stay ahead in the field.
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
